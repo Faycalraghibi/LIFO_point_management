@@ -11,7 +11,7 @@ The **LIFO_point_management** project is designed to demonstrate the implementat
 #### Project Structure
 
 ```
-│   GestionLIFOdesPoints.sln
+├───GestionLIFOdesPoints.sln
 │
 ├───Debug
 │       GestionLIFOdesPoints.exe
